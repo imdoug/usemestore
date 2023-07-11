@@ -1,0 +1,30 @@
+/* .basePadding{
+  padding: 20px;
+} */
+.navContainer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  height: 80px;
+  padding: 20px
+}
+.topNavContainer h1{
+  color:#000;
+}
+.topNavLinks{
+  width: 200px;
+  display: flex;
+  justify-content: space-around;
+}
+.banner{
+  width: 100%;
+}
+.bannerImage{
+  width: 100%;
+}
+.footerContainer{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
